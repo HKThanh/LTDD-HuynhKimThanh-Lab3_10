@@ -4,6 +4,7 @@ import Screen1 from './Screens/Screen1';
 import Screen2 from './Screens/Screen2';
 import Screen3 from './Screens/Screen3';
 import Screen4 from './Screens/Screen4';
+import Screen5 from './Screens/Screen5';
 
 export default function App() {
   return (
@@ -11,7 +12,8 @@ export default function App() {
       {/* <Screen1/> */}
       {/* <Screen2/> */}
       {/* <Screen3/> */}
-      <Screen4/>
+      {/* <Screen4/> */}
+      <Screen5/>
     </View>
   );
 }

@@ -27,7 +27,7 @@ const style = StyleSheet.create({
         }
     });
 
-const Screen3 = function() {
+const Screen4 = function() {
     return (
         <View style={{flex: 1}}>
             <LinearGradient colors={['#C7F4F6', '#D1F4F6', '#E5F4F5', '#00CCF9']} style={{flex: 1}} locations={[0.4, 0.6, 0.85, 0.95]}>
@@ -62,4 +62,4 @@ const Screen3 = function() {
     );
 }
 
-export default Screen3;
+export default Screen4;

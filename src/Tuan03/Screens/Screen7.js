@@ -2,7 +2,7 @@ import React from "react";
 import { View, Text, TextInput, Image, Pressable, Linking } from "react-native";
 import { LinearGradient } from "expo-linear-gradient";
 
-const Screen5 = function() {
+const Screen7 = function() {
     return (
         <View style={{flex: 1, backgroundColor: '#31AA5230'}}>
             <LinearGradient colors={['#FBCB00', '#BF9A00']} style={{flex: 1}}>
@@ -32,4 +32,4 @@ const Screen5 = function() {
     );
 }
 
-export default Screen5;
+export default Screen7;

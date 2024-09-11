@@ -7,6 +7,7 @@ import Screen4 from './Screens/Screen4';
 import Screen5 from './Screens/Screen5';
 import Screen6 from './Screens/Screen6';
 import Screen7 from './Screens/Screen7';
+import Screen8 from './Screens/Screen8';
 
 export default function App() {
   return (
@@ -17,7 +18,8 @@ export default function App() {
       {/* <Screen4/> */}
       {/* <Screen5/> */}
       {/* <Screen6/> */}
-      <Screen7/>
+      {/* <Screen7/> */}
+      <Screen8/>
     </View>
   );
 }
